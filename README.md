@@ -95,7 +95,7 @@ text
 
 ## 👨‍💻 Author
 
-**Raghav Agarwal** - [@atheistic-raghav](https://github.com/atheistic-raghav)
+**Raghav Agarwal** - [raghavagarwal0302](https://github.com/raghavagarwal0302)
 
 ---
 
